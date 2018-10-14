@@ -1,0 +1,113 @@
+.login{
+    width: 30%;
+    height: 50px;
+    font: 35px sans-serif;
+    background: url(/images/1.png);
+    border-radius:5px ; 
+   -webkit-border-radius:5px ; 
+   -moz-border-radius:5px ;
+   cursor: pointer;
+}
+.registration{
+    width: 30%;
+    height: 50px;
+    font: 30px sans-serif;
+    background: url(/images/1.png);
+    border-radius:5px ; 
+   -webkit-border-radius:5px ; 
+   -moz-border-radius:5px ;
+   cursor: pointer;
+}
+#block-login{
+    width: 40%;
+    height: auto;
+}
+.h2-title{
+    font: 40px sans-serif;
+    padding-bottom: 3px;
+    
+}
+#block-login p{
+    font: 20px sans-serif;
+}
+#block-login input{
+    width: 40%;
+    height: 30px;
+    padding-left: 5px;
+    font: 16px sans-serif;
+    margin-top: -10px;
+}
+.submit-login{
+    border: 1px solid #969696;
+    border-radius:5px ; 
+   -webkit-border-radius:5px ; 
+   -moz-border-radius:5px ;
+   padding-left: 7px;
+   padding-right: 7px;
+   height: 33px;
+   cursor: pointer;
+   font: 20px sans-serif;
+}
+.submit-login:active{
+    background-color: #C0C0C0;
+}
+.error{
+    color: red;
+    font: 20px sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#block-registration{
+    width: 40%;
+    height: auto;
+}
+#block-registration p{
+    font: 17px sans-serif;
+}
+#block-registration input{
+    width: 45%;
+    height: 30px;
+    padding-left: 5px;
+    font: 16px sans-serif;
+    margin-top: -10px;
+}
+.submit-registration{
+    border: 1px solid #969696;
+    border-radius:5px ; 
+   -webkit-border-radius:5px ; 
+   -moz-border-radius:5px ;
+   padding-left: 7px;
+   padding-right: 7px;
+   height: 33px;
+   cursor: pointer;
+   font: 20px sans-serif;
+}
+.submit-registration:active{
+    background-color: #C0C0C0;
+}
+.good{
+    color: green;
+    font: 20px sans-serif;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.autch-good p{
+    font: 20px sans-serif;
+}
+.exit{
+    border: 1px solid #969696;
+    border-radius:5px ; 
+   -webkit-border-radius:5px ; 
+   -moz-border-radius:5px ;
+   padding-left: 7px;
+   padding-right: 7px;
+   height: 33px;
+   cursor: pointer;
+   font: 20px sans-serif;
+   margin-top: 10px;
+}
+.exit:active{
+    background-color: #C0C0C0;
+}
